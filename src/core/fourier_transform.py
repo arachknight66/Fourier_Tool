@@ -15,7 +15,7 @@ class FourierTransformer:
 
     def compute_fft(self, signal_data: np.ndarray, real_only: bool = True) -> Spectrum:
         """
-        Computes the Discrete Fourier Transform[cite: 51, 52].
+        Computes the Discrete Fourier Transform.
         """
         n = len(signal_data)
         
