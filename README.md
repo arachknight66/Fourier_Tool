@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 Noise contamination is a universal challenge in signal processing, affecting data integrity in fields ranging from biomedical engineering to astrophysics. Existing tools are often "domain-specific," relying on fixed noise models that fail when applied to novel datasets.
 
@@ -17,7 +17,7 @@ This project presents a **General-Purpose Fourier-Domain Framework** designed to
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The framework is modularized into four distinct processing units:
 
@@ -32,7 +32,7 @@ The framework is modularized into four distinct processing units:
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 * **OS:** Windows, Linux, or macOS
@@ -59,7 +59,7 @@ The framework is modularized into four distinct processing units:
 
 ---
 
-## 💻 Usage Guide
+##  Usage Guide
 
 ### Running the Jupyter Notebooks
 The project includes a comprehensive 6-part notebook series demonstrating the theory and application:
